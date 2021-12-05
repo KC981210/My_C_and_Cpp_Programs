@@ -16,4 +16,5 @@ int main()
     printf("%d * %d = %d\n",num,8,num*8);
     printf("%d * %d = %d\n",num,9,num*9);
     printf("%d * %d = %d\n",num,10,num*10);
+    return 0;
 }
