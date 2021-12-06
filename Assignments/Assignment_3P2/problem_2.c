@@ -1,5 +1,10 @@
 #include<stdio.h>
-
+/*
+Write a program to convert temperature in Celsius to Fahrenheit
+and vice versa.
+Formula for conversion is
+ ºC = 5/9 x (ºF - 32).
+*/
 int main()
 {
     double degC,degF;

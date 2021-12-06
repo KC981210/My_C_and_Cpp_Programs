@@ -1,4 +1,10 @@
 #include<stdio.h>
+/*
+Write a program to accept a 4 digit number and
+a. Display face value of each decimal digit
+b. Display place value of each decimal digit
+c. Display no in reverse order by changing decimal place values.
+*/
 int main()
 {
     int num,a,b,c,d;

@@ -1,5 +1,8 @@
 #include<stdio.h>
-
+/*
+Write a program to accept three digit number and find sum of all
+its digits.
+*/
 int main()
 {
     int num,a,b,c,sum;

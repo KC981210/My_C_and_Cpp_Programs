@@ -1,5 +1,8 @@
 #include<stdio.h>
-
+/*
+Write a program to display ASCII values for character constants
+‘\n’, ‘\r’, ‘\t’, ‘\a’, ‘\b'.
+*/
 int main()
 {
     printf("%d\n",'\r');

@@ -1,4 +1,8 @@
 #include<stdio.h>
+/*
+Write a program to accept three integer numbers and find its
+average.
+*/
 int main ()
 {
   int a,b,c;

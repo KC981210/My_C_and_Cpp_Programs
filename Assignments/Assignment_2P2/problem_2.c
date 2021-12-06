@@ -1,5 +1,7 @@
 #include<stdio.h>
-
+/*
+Write a program to accept an integer value and print its table.
+*/
 int main()
 {
     short int num;

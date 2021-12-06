@@ -1,5 +1,8 @@
 #include<stdio.h>
-
+/*
+Write a program to accept a number and print the number in character,
+decimal, octal and hex formats.
+*/
 int main()
 {
     int num;
